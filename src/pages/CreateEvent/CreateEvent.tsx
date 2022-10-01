@@ -2,7 +2,9 @@ import React from 'react'
 
 function CreateEvent() {
   return (
-    <div>CreateEvent</div>
+    <div className='h-screen'>
+      
+    </div>
   )
 }
 

@@ -8,7 +8,7 @@ import PageNotFound from './pages/PageNotFound/PageNotFound';
 
 function App() {
   return (
-    <div>
+    <div className=''>
       <Routes>
         <Route path="/" element={ <LandingPage/> } />
         <Route path="createEvent" element={ <CreateEvent/> } />
